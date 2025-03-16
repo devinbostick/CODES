@@ -71,7 +71,10 @@ For more on how this prime-driven resonance fits into larger emergent systems an
 ⸻
 
 How to Run It:
+
 	1.	Clone this repo.
+ 
 	2.	Make sure you have Python installed and the turtle module.
+ 
 	3.	Run the script (python3 gameoflifeCODES.py) and watch how the grid evolves based on prime-driven rules.
 
