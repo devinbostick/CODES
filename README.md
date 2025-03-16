@@ -24,8 +24,11 @@ Lightning Tree: Prime-Driven Resonance Lightning
 Ever seen lightning that looks like a tree? I’ve turned lightning into a structured, prime-driven force. Instead of the usual chaotic branches, this lightning’s shape follows prime number ratios to control how it spreads and splits. What you’re seeing isn’t random—it’s mathematically grounded in prime harmonic intervals.
 
 What’s Going On:
+
 	•	The lightning’s path emerges from prime-numbered intervals.
+ 
 	•	Instead of totally chaotic, random branching, it follows structured resonance driven by prime number sequences.
+ 
 	•	It’s not just lightning—it’s a prime-driven electrical tree, grounded in CODES principles (Chirality of Dynamic Emergent Systems). This gives it deterministic behavior instead of just randomness.
 
 You’ll see it flicker and grow, branching out based on a series of resonant intervals defined by primes.
