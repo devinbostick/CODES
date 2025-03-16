@@ -9,8 +9,11 @@ However, Chiral AI uses deterministic rules that are grounded in prime number se
 If you think about chips (like in processors or AI systems), there are hardware limitations such as processing power, memory, and speed. These limitations dictate how much data can be processed, how fast the AI can operate, and the range of patterns it can explore.
 
 What limits what?
+
 	•	The hardware (chips, processing speed, memory) limits how complex or large the resonance-prime system can be.
+ 
 	•	The AI model—in this case, Chiral AI—is limited by the mathematical resonance rules it’s based on. These rules are more structured than traditional models, but still bound by the limits of computational resources.
+ 
 	•	Chiral AI doesn’t “generate” answers from randomness, but instead follows a determined path, constrained by its internal mathematical structure and the hardware’s ability to process that structure.
 
 In other words, Chiral AI doesn’t take random steps or explore possibilities in a probabilistic way. Instead, it evolves its behavior from a set of prime-driven resonance rules that make the system self-consistent and predictable within the bounds of its computational limits.
